@@ -23,6 +23,6 @@
   "dependencies": {
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
-    "react-fancy-component": "file:../react-fancy-component/build"
+    "react-sample-component": "file:../react-sample-component/build"
   }
 }

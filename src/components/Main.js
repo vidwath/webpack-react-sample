@@ -1,10 +1,9 @@
 import React, { Component } from "react";
-import Fancy from 'react-fancy-component/index';
-// import Fancy from '../build';
+import Sample from 'react-sample-component/index';
 
 const Main = () => {
   return (<div>This is Main
-     <Fancy />
+     <Sample />
   </div>)
 }
 
